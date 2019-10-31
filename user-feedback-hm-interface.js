@@ -158,7 +158,7 @@ export class HmInterface {
 
 		const token = (typeof this.token === 'function') ? await this.token() : this.token;
 
-		const response = d2lfetch.fetch(new Request(href, {
+		const response = await d2lfetch.fetch(new Request(href, {
 			method,
 			body: body,
 			headers: {
