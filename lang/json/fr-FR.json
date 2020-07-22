@@ -1,0 +1,9 @@
+{
+   "cancel" : "Annuler",
+   "close" : "Fermer",
+   "defaultTitle" : "Envoyez-nous vos réactions sur le produit",
+   "dontWantToGiveFeedback" : "Je ne souhaite pas fournir de réaction",
+   "errorSubmitting" : "Une erreur s’est produite lors de l’envoi de vos réactions, réessayez ultérieurement",
+   "sendFeedback" : "Envoyer vos réactions",
+   "submittedTitle" : "Merci !"
+}

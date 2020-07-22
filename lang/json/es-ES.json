@@ -1,0 +1,9 @@
+{
+   "cancel" : "Cancel",
+   "close" : "Cerrar",
+   "defaultTitle" : "Send us Product Feedback",
+   "dontWantToGiveFeedback" : "I don't want to give feedback",
+   "errorSubmitting" : "There was an error submitting your feedback, please try again later",
+   "sendFeedback" : "Send Feedback",
+   "submittedTitle" : "Thank You!"
+}
